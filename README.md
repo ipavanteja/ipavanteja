@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as a **Frontend Lead** at [i.CAMP](https://i.camp/)
+- 🔭 Currently working as a **Frontend Lead** at [i.CAMP](https://i.camp/) and [0x.Day](https://0x.day)
 - 🧑‍💼 3+ years of professional experience in **Fullstack Web Development**
 - 🛠️ Passionate about building **scalable**, **accessible**, and **performant** web applications
 - 🎧 I code best with music on and coffee in hand
