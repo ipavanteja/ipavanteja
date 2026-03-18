@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as a **Frontend Lead** at [i.CAMP](https://i.camp/) and [0x.Day](https://0x.day)
-- 🧑‍💼 3+ years of professional experience in **Fullstack Web Development**
+- 🔭 Working as a **Frontend Developer** at [0xpivot](https://0xpivot.com/)
+- 🧑‍💼 3+ years of professional experience in **Fullstack and Frontend**
 - 🛠️ Passionate about building **scalable**, **accessible**, and **performant** web applications
-- 🎧 I code best with music on and coffee in hand
-- 📫 Reach me at: **pavan@i.camp**
+- 🎧 I code best with music on
+- 📫 Reach me at: **pavan@pivotintelligence.com**
 
 ---
 
